@@ -1,6 +1,8 @@
 public class Drago {
     private String nome;
     private Cavaliere cacciatore;
+    private Principessa principessa;
+
     public Drago(String nome) {
         this.nome = nome;
     }
